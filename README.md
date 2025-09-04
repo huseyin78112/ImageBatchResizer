@@ -38,7 +38,7 @@ If you don’t want to purchase the prebuilt version, you can **build the app yo
 
 ### Steps
 ```bash
-git clone https://github.com/yourname/ImageBatchResizer.git
+git clone https://github.com/Huseyin78112/ImageBatchResizer.git
 cd image-batch-resizer
 # Open the solution in Visual Studio
 # Build and run
